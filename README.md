@@ -1,7 +1,7 @@
 ### Hi 👋 I'm Oualid Rouabah  :man_technologist:
-<hr>
+<hr style="line-height: 1.5;">
 I am a mobile apps developer, interested in intersectionality between artificial intelligence and internet of things.
-<hr>
+<hr style="line-height: 1.5;">
 - 🌱 I’m currently learning IA 
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
