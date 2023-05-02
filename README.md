@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi 👋 I'm Oualid Rouabah  man_technologist
+I am a mobile apps developer, interested in intersectionality between artificial intelligence and internet of things.
 
+🌱 I’m currently learning IA
+telescope I’m currently working on some projects with Flutter and Laravel.
 <!--
 **oualidrouabah/oualidrouabah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
