@@ -1,8 +1,15 @@
 ### Hi 👋 I'm Oualid Rouabah  man_technologist
 I am a mobile apps developer, interested in intersectionality between artificial intelligence and internet of things.
 
-🌱 I’m currently learning IA
-telescope I’m currently working on some projects with Flutter and Laravel.
+- 🌱 I’m currently learning IA 
+
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems and read tech articles.
+
+- :mailbox:How to reach me: [![Gmail badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](oualidrouabah56@gmail.com)
 <!--
 **oualidrouabah/oualidrouabah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
