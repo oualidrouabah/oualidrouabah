@@ -9,7 +9,7 @@ I am a mobile apps developer, interested in intersectionality between artificial
 
 - :zap: In my free time, I solve problems and read tech articles.
 
-- :mailbox:How to reach me: [![Gmail badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](oualidrouabah56@gmail.com)
+- :mailbox:How to reach me: [![Gmail badge]()](oualidrouabah56@gmail.com)
 <!--
 **oualidrouabah/oualidrouabah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
