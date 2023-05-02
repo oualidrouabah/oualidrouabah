@@ -1,4 +1,4 @@
-### Hi 👋 I'm Oualid Rouabah  man_technologist
+### Hi 👋 I'm Oualid Rouabah  :man_technologist:
 I am a mobile apps developer, interested in intersectionality between artificial intelligence and internet of things.
 
 - 🌱 I’m currently learning IA 
@@ -9,7 +9,7 @@ I am a mobile apps developer, interested in intersectionality between artificial
 
 - :zap: In my free time, I solve problems and read tech articles.
 
-- :mailbox:How to reach me: [![oualidrouabah56@gmail.com]()]()
+- :mailbox: How to reach me: <a href="mailto:oualidrouabah56@gmail.com">oualidrouabah56@gmail.com</a>
 <!--
 **oualidrouabah/oualidrouabah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
