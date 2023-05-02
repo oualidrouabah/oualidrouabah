@@ -1,7 +1,7 @@
 ### Hi 👋 I'm Oualid Rouabah  :man_technologist:
-<hr style="border: none; height: 0.3px; background-color: #ccc; margin: 20px 0;">
+<hr style="border: none; height: 0.3px; background-color: #ccc; ">
 I am a mobile apps developer, interested in intersectionality between artificial intelligence and internet of things.
-<hr style="border: none; height: 0.3px; background-color: #ccc; margin: 20px 0;">
+<hr style="border: none; height: 0.3px; background-color: #ccc;">
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
