@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oualid</h1>
-<h3 align="center">I am a mobile apps developer, interested in artificial intelligence and internet of things.</h3>
+<h3 align="center">I am a mobile apps developer, interested in artificial intelligence.</h3>
 
 - 🔭 I’m currently working on **intelligence artificiel**
 
