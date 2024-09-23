@@ -10,12 +10,12 @@
 ## **GitHub Statistics**
 
 <a href="https://github.com/oualidrouabah">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oualidrouabah&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oualidrouabah&theme=dracula&hide_langs_below=1" style="margin-right: 20px;" />
 </a>
 
 
 <a href="https://github.com/oualidrouabah">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=oualidrouabah&show_icons=true&theme=dracula&line_height=27" alt="**Oualid** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=oualidrouabah&show_icons=true&theme=dracula&line_height=27" alt="**Oualid** github stats" style="margin-left: 20px;" />
 </a>
 
 
