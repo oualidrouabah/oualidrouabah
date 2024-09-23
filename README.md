@@ -7,6 +7,19 @@
 
 - 📫 How to reach me **oualidrouabah56@gmail.com**
 
+## **GitHub Statistics**
+
+<a href="https://github.com/oualidrouabah">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oualidrouabah&theme=dracula&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/oualidrouabah">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=oualidrouabah&show_icons=true&theme=dracula&line_height=27" alt="**Oualid** github stats"/>
+</a>
+
+![pv](https://pageview.vercel.app/?github_user=oualidrouabah)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/oualid-rouabah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oualid-rouabah" height="30" width="40" /></a>
