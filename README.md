@@ -19,7 +19,7 @@
 [![Oualid's current streak](https://streak-stats.demolab.com/?user=oualidrouabah&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 
-<h3 align="left">🌐 Connect with me:</h3>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20With%20Meridians.png" alt="Hammer and Wrench" width="30" height="30" /> **Connect with me**  
 <p align="left">
 <a href="https://linkedin.com/in/oualid-rouabah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oualid-rouabah" height="30" width="40" /></a>
 <a href="https://fb.com/oualid.rouabh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="oualid.rouabh" height="30" width="40" /></a>
