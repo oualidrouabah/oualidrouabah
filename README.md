@@ -19,14 +19,26 @@
 [![Oualid's current streak](https://streak-stats.demolab.com/?user=oualidrouabah&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/oualid-rouabah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oualid-rouabah" height="30" width="40" /></a>
-<a href="https://fb.com/oualid.rouabh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="oualid.rouabh" height="30" width="40" /></a>
-<a href="https://instagram.com/oualid.rouabh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oualid.rouabh" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/oualid-rouabah" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30"/>
+  </a>
+  <a href="https://fb.com/oualid.rouabh" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" height="30"/>
+  </a>
+  <a href="https://instagram.com/oualid.rouabh" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="30"/>
+  </a>
 </p>
 
 
-<h3 align="left">Support:</h3>
-<p><a href="https://buymeacoffee.com/oualidrouabah"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="just a coffee" /></a></p><br><br>
+<h3 align="left">☕ Support me:</h3>
+<p align="left">
+  <a href="https://buymeacoffee.com/oualidrouabah" target="_blank">
+    <img src="https://skillicons.dev/icons?i=coffee" alt="Buy me a coffee" height="30"/>
+  </a>
+  <span> <a href="https://buymeacoffee.com/oualidrouabah" target="_blank">Buy me a coffee</a></span>
+</p>
+
 
