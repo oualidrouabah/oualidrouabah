@@ -7,19 +7,13 @@
 
 - 📫 How to reach me **oualidrouabah56@gmail.com**
 
-## **GitHub Statistics**
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
 
-<a href="https://github.com/oualidrouabah">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oualidrouabah&theme=dracula&hide_langs_below=1" style="margin-right: 20px;" />
-</a>
+ [![Oualid's github stats](https://bad-apple-github-readme.vercel.app/api?username=oualidrouabah&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+ 
+ [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=oualidrouabah&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
-
-<a href="https://github.com/oualidrouabah">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=oualidrouabah&show_icons=true&theme=dracula&line_height=27" alt="**Oualid** github stats" style="margin-left: 20px;" />
-</a>
-
-
-![pv](https://pageview.vercel.app/?github_user=oualidrouabah)
+[![Oualid's current streak](https://streak-stats.demolab.com/?user=oualidrouabah&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 
 <h3 align="left">Connect with me:</h3>
