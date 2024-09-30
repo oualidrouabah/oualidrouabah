@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Oualid</h1> 
-
 [![StandWithPalestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg)](https://github.com/TheBSD/StandWithPalestine/blob/main/docs/README.md)
+
+<h1 align="center">Hi 👋, I'm Oualid</h1> 
 
 <h3 align="center">A mobile apps developer. </h3> 
 
