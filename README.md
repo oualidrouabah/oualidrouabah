@@ -2,11 +2,7 @@
 
 [![StandWithPalestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg)](https://github.com/TheBSD/StandWithPalestine/blob/main/docs/README.md)
 
-<h3 align="center">A mobile apps developer, interested in artificial intelligence. </h3> 
-
-- 🔭 I’m currently working on **intelligence artificiel**
-
-- 🌱 I’m currently learning about **Software Engineering and Operating systems**
+<h3 align="center">A mobile apps developer. </h3> 
 
 - 📫 How to reach me **oualidrouabah56@gmail.com**
 
