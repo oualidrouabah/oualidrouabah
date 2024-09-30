@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Oualid [![StandWithPalestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg)](https://github.com/TheBSD/StandWithPalestine/blob/main/docs/README.md)</h1>
-<h3 align="center">A mobile apps developer, interested in artificial intelligence.</h3>
+<h1 align="center">Hi 👋, I'm Oualid </h3> [![StandWithPalestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg)](https://github.com/TheBSD/StandWithPalestine/blob/main/docs/README.md)</h1>
+<h3 align="center">A mobile apps developer, interested in artificial intelligence.
 
 - 🔭 I’m currently working on **intelligence artificiel**
 
