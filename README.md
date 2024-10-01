@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Oualid</h1> 
 
-<h3 align="center">A mobile apps developer. </h3> 
+<h3 align="left">Computer Engineer dedicated to leveraging technology to create innovative solutions. Enthusiastic about mobile development and AI, I’m constantly learning and exploring new tools. Always open to collaboration and knowledge-sharing. Let’s build something great together! </h3> 
 
 - 📫 How to reach me **oualidrouabah56@gmail.com**
 
