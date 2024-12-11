@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **oualidrouabah56@gmail.com**
 
-  <div align="center">
+  <div align="left">
     <img src="https://komarev.com/ghpvc/?username=oualidrouabah&style=for-the-badge&color=2F6C92" alt="profile-views"/> 
 </div>
 
